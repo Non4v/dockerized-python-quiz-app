@@ -15,29 +15,29 @@ if answer.lower() == ("central processing unit "):
 else:
     print("incorrect")
 
-answer = input("Which is bigger: sun or moon?")
-if answer.lower() == ("sun"):
+answer = input(" What does "URL" stand for?")
+if answer.lower() == ("Uniform Resource Locator"):
     print("Correct!")
     score += 1
 else:
     print("incorrect")
 
-answer = input("What is water? ")
-if answer.lower() == ("liquid"):
+answer = input("What does IP address stand for? ")
+if answer.lower() == ("Internal Protocol adress"):
     print("Correct!")
     score += 1
 else:
     print("incorrect")
 
-answer = input("what is biggest continent ")
-if answer.lower() == ("asia"):
+answer = input("What language is primarily used for web page structure? ")
+if answer.lower() == ("HTML"):
     print("Correct!")
     score += 1
 else:
     print("incorrect")
 
-answer = input("when was first world war ")
-if answer.lower() == ("1914"):
+answer = input("What does CI/CD stand for? ")
+if answer.lower() == (" Continuous Integration / Continuous Deployment"):
     print("Correct!")
     score += 1
 else:
